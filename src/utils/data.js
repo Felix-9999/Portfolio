@@ -37,13 +37,13 @@ export const workExp = [
   },
   {
     place: "Galent.am & GITC",
-    tenure: "2021-2022",
+    tenure: "2022-2023",
     role: "About me",
     detail:
       "I have always been following the IT development and changes and the feld's rapid development and flexibility made me become a part of it",
   },
   {
-    place: "I am self-educated",
+    place: "I am currently self-taught",
     tenure: "",
     role: "",
     detail:

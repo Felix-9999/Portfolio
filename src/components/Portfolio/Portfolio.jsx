@@ -15,9 +15,8 @@ const Portfolio = () => {
       <div className={`innerWidth flexCenter ${css.container}`}>
         <motion.div variants={textVariant(.4)} className={`flexCenter ${css.heading}`}>
           <div>
-            <span className="primaryText">My Latest Works</span>
+            <span className="primaryText">My  Works</span>
           </div>
-          <span className="secondaryText"><a >Explore More Works</a></span>
         </motion.div>
 
 
@@ -32,7 +31,7 @@ const Portfolio = () => {
             <a href="https://crud-rosy-two.vercel.app/login" target="_blank">
               <motion.img variants={fadeIn("up", "tween", .7, .6)} src="table1.png" alt="project" />
             </a>
-            <a href="https://github.com/Felix-9999/CRUD" target="_blank"><h1>CODE</h1></a>
+            <a href="https://github.com/Felix-9999/CRUD" target="_blank"><h1>CRUD</h1></a>
           </div>
           <div className={css.div}>
             <a href="https://memory-game-rho-brown.vercel.app/" target="_blank">
